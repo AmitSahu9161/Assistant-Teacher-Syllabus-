@@ -46,9 +46,3 @@ The syllabus covers multiple subjects like **Agronomy, Computer Science, Arts, M
 - Organization & Supervision  
 - Sports & Competitions  
 
----
-
-## 🚀 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AmitSahu9161/Assistant-Teacher-Syllabus-/blob/main/README.md

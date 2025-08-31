@@ -1,87 +1,54 @@
-# Assistant-Teacher-Syllabus-
-Features
+# 📘 Assistant Teacher Syllabus  
 
-📑 All subjects & topics stored in data/subjects.json
+This repository contains the **Final Assistant Teacher Syllabus** in PDF format.  
+The syllabus covers multiple subjects like **Agronomy, Computer Science, Arts, Music, and Physical Education**.  
 
-🔎 Client-side search across subjects, sections, and topics
+---
 
-🖥️ Built with Next.js App Router
+## 📂 File Included
+- `Final - Assistant Teacher Eng.._ Sy.pdf`  
+  *(Complete syllabus for Assistant Teacher exam preparation)*
 
-🎨 Tailwind CSS styling with responsive UI
+---
 
-🌍 100% static export (works on any host)
+## 📚 Subjects Covered
+### 🌱 Agriculture
+- Agronomy & Horticulture  
+- Soil Science & Irrigation  
+- Animal Husbandry  
 
-Getting Started
-1. Clone the repository
-git clone https://github.com/your-username/assistant-teacher-syllabus-site.git
-cd assistant-teacher-syllabus-site
+### 💻 Computer Science
+- Digital Logic & Circuits  
+- Computer Organization & Architecture  
+- Data Structures & Algorithms  
+- C & Java Programming  
+- Operating Systems  
+- Database Management Systems  
+- Computer Networks  
+- Software Engineering  
+- Web Technology & Internet Security  
+- Cyber Laws & Information Security  
 
-Install dependencies
-npm install
+### 🎨 Art
+- History of Indian & European Art  
+- Modern & Contemporary Art  
+- Painting Mediums & Techniques  
 
-Run the development server
-npm run dev
+### 🎶 Music
+- Vocal & Instrumental Studies  
+- Ragas & Talas  
+- Music Theory & Notation  
+- Eminent Artists  
 
-Build for Production
-npm run build
+### 🏃 Physical Education
+- History & Principles of Physical Education  
+- Psychology of Learning & Motivation  
+- Organization & Supervision  
+- Sports & Competitions  
 
-This will build and export the static site into the out/ folder.
+---
 
-Preview locally:
-
-npx serve out
-
-Project Structure
-app/                 # Next.js App Router pages
-  layout.tsx
-  page.tsx
-  subjects/[slug]/page.tsx
-components/          # UI components
-data/subjects.json   # All syllabus content here
-lib/subjects.ts      # Helper functions
-styles/globals.css   # Tailwind global styles
-public/              # Static files
-
-Editing Content
-
-Open data/subjects.json
-
-Add/Edit subjects → sections → topics
-
-Rebuild (npm run build) to update static site
-
-Deployment
-Vercel (recommended)
-
-Push this repo to GitHub.
-
-Import into Vercel
-.
-
-Set:
-
-Build Command: npm run build
-
-Output Directory: out
-
-Deploy → Done ✅
-
-Netlify
-
-Build command: npm run build
-
-Publish directory: out
-
-GitHub Pages
-npm run build
-git add out -f
-git commit -m "Deploy to GitHub Pages"
-git subtree push --prefix out origin gh-pages
-
-Then enable Pages in repo settings → branch: gh-pages
-
-📜 License
-
-MIT License. Free to use, modify, and share.
-
-👉 Replace https://github.com/AmitSahu9161/Assistant-Teacher-Syllabus-/blob/main/README.md with your actual repo URL.
+## 🚀 Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/assistant-teacher-syllabus.git

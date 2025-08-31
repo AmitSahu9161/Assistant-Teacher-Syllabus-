@@ -84,4 +84,4 @@ Then enable Pages in repo settings → branch: gh-pages
 
 MIT License. Free to use, modify, and share.
 
-👉 Replace https://github.com/your-username/... with your actual repo URL.
+👉 Replace https://github.com/AmitSahu9161/Assistant-Teacher-Syllabus-/blob/main/README.md with your actual repo URL.
